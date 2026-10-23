@@ -12,6 +12,10 @@ const compat = new FlatCompat({
 const eslintConfig = [
   ...compat.extends("next/core-web-vitals", "next/typescript"),
   {
+    // Figma SVG icons are fixed-size static assets; next/image adds nothing for them.
+    rules: { "@next/next/no-img-element": "off" },
+  },
+  {
     ignores: [
       "node_modules/**",
       ".next/**",

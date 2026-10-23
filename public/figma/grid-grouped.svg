@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="541.808" height="158.336" viewBox="0 0 541.808 158.336" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Square Grid" opacity="0.1">
+<path id="X-axis grid" d="M0.243292 0.524304V157.663" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="X-axis grid_2" d="M90.8283 0.524297V157.663" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="X-axis grid_3" d="M180.717 0.524297V157.663" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="X-axis grid_4" d="M271.234 0.524297V157.663" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="X-axis grid_5" d="M361.723 0.524297V157.663" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="X-axis grid_6" d="M451.463 0.524297V157.663" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="X-axis grid_7" d="M541.565 0.524297V157.663" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="Y-axis grid" d="M0.498302 158.092H541.566" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="Y-axis grid_2" d="M0.82755 118.682H541.609" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="Y-axis grid_3" d="M0.82755 79.3151H541.609" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="Y-axis grid_4" d="M0.82755 39.9297H541.609" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="Y-axis grid_5" d="M0.82755 0.243292H541.609" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="X-axis" d="M0.609907 158H361.419" stroke-width="0.486583" stroke="#1D170F"/>
+<path id="Y-axis" d="M0.243292 0.56193V157.714" stroke-width="0.486583" stroke="#1D170F"/>
+</g>
+</svg>
